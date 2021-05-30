@@ -65,3 +65,8 @@ You can modify the model hyperparameters by editing the config.py file.
 ```vi config.py```
 
 
+### Training Log
+
+The training log files are stored in the logging folder, corresponding to the training logs of the BERT-base and BERT-large versions respectively.
+
+
