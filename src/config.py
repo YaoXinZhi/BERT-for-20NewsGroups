@@ -65,8 +65,3 @@ class config:
         self.model_save_name = WEIGHTS_NAME
         self.config_save_name = CONFIG_NAME
 
-Best F1-score: 0.9843
-Precision: 0.9892
-Recall: 0.9795
-Accuracy: 0.9791
-Epoch-Average Loss: 0.6392
