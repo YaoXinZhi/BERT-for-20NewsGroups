@@ -53,6 +53,9 @@ pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio==0.7.2 -f https:/
 
 ### Default Run
 
+**Create Dic.**
+Before running, you need to build two folders, **logging** and **models**, in the project folder
+
 **Model training and evaluation**
 ```
 python3 main.py
